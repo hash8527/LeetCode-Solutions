@@ -16,9 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hash8527/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [2582-pass-the-pillow](https://github.com/hash8527/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/hash8527/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hash8527/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+## Simulation
+|  |
+| ------- |
+| [2582-pass-the-pillow](https://github.com/hash8527/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 <!---LeetCode Topics End-->
