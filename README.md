@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hash8527/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0367-valid-perfect-square](https://github.com/hash8527/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1492-the-kth-factor-of-n](https://github.com/hash8527/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1837-sum-of-digits-in-base-k](https://github.com/hash8527/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2413-smallest-even-multiple](https://github.com/hash8527/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/hash8527/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/hash8527/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
