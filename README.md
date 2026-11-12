@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hash8527/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0172-factorial-trailing-zeroes](https://github.com/hash8527/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/hash8527/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/hash8527/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1492-the-kth-factor-of-n](https://github.com/hash8527/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
