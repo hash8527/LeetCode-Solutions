@@ -4,7 +4,7 @@ public:
     {
         if (num % 2 == 0)
         {
-            for (double i = 2; i <= num; i += 2)
+            for (double i = 2; i * i <= num; i += 2)
             {
                 if (i * i == num)
                 {
@@ -14,7 +14,7 @@ public:
         }
         else
         {
-            for (double i = 1; i <= num; i += 2)
+            for (double i = 1; i * i <= num; i += 2)
             {
                 if (i * i == num)
                 {
