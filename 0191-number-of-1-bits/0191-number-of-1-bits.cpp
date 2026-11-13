@@ -9,10 +9,7 @@ public:
             digit = n % 2;
             n /= 2;
 
-            if (digit == 1)
-            {
-                bits += 1;
-            }
+            bits += digit;
         }
         return bits;
     }
