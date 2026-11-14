@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/hash8527/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/hash8527/LeetCode-Solutions/tree/master/3099-harshad-number) |
 | [3100-water-bottles-ii](https://github.com/hash8527/LeetCode-Solutions/tree/master/3100-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hash8527/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/hash8527/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hash8527/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
