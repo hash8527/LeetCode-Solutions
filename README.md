@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/hash8527/LeetCode-Solutions/tree/master/3099-harshad-number) |
 | [3100-water-bottles-ii](https://github.com/hash8527/LeetCode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hash8527/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/hash8527/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/hash8527/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2582-pass-the-pillow](https://github.com/hash8527/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [3100-water-bottles-ii](https://github.com/hash8527/LeetCode-Solutions/tree/master/3100-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/hash8527/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
