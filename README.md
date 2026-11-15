@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/hash8527/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/hash8527/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hash8527/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1025-divisor-game](https://github.com/hash8527/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1492-the-kth-factor-of-n](https://github.com/hash8527/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1518-water-bottles](https://github.com/hash8527/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/hash8527/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -93,4 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hash8527/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/hash8527/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/hash8527/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/hash8527/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/hash8527/LeetCode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
