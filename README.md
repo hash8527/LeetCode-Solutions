@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/hash8527/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/hash8527/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/hash8527/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hash8527/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1492-the-kth-factor-of-n](https://github.com/hash8527/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1518-water-bottles](https://github.com/hash8527/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/hash8527/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/hash8527/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/hash8527/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/hash8527/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hash8527/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/hash8527/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hash8527/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/hash8527/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
