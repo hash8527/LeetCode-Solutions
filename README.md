@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3100-water-bottles-ii](https://github.com/hash8527/LeetCode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hash8527/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/hash8527/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/hash8527/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/hash8527/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/hash8527/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/hash8527/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/hash8527/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
