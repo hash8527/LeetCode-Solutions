@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hash8527/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hash8527/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/hash8527/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/hash8527/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/hash8527/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1518-water-bottles](https://github.com/hash8527/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/hash8527/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/hash8527/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/hash8527/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2235-add-two-integers](https://github.com/hash8527/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/hash8527/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
