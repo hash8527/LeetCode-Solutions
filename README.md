@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hash8527/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/hash8527/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/hash8527/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/hash8527/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/hash8527/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hash8527/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/hash8527/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hash8527/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hash8527/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/hash8527/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/hash8527/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hash8527/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hash8527/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hash8527/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/hash8527/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/hash8527/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/hash8527/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 ## Simulation
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hash8527/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/hash8527/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2582-pass-the-pillow](https://github.com/hash8527/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/hash8527/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3100-water-bottles-ii](https://github.com/hash8527/LeetCode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3360-stone-removal-game](https://github.com/hash8527/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Number Theory
