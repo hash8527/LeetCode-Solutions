@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hash8527/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hash8527/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hash8527/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hash8527/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/hash8527/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/hash8527/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/hash8527/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/hash8527/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hash8527/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2525-categorize-box-according-to-criteria](https://github.com/hash8527/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hash8527/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/hash8527/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2582-pass-the-pillow](https://github.com/hash8527/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [2651-calculate-delayed-arrival-time](https://github.com/hash8527/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
