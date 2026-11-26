@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hash8527/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hash8527/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/hash8527/LeetCode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/hash8527/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/hash8527/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hash8527/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hash8527/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hash8527/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hash8527/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hash8527/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/hash8527/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2678-number-of-senior-citizens](https://github.com/hash8527/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/hash8527/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/hash8527/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hash8527/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/hash8527/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
